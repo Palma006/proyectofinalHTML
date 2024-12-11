@@ -1,4 +1,3 @@
-/* Estilos generales */
 body {
     font-family: 'Roboto', sans-serif;
     background: #f4f4f4;
@@ -8,7 +7,7 @@ body {
 }
 
 header {
-    background: #006747; /* Verde Unicaja */
+    background: #006747;
     color: white;
     text-align: center;
     padding: 20px;
@@ -80,18 +79,15 @@ footer {
     bottom: 0;
 }
 
-/* Gradiente de fondo */
 body {
     background: linear-gradient(135deg, #006747, #004c3f);
 }
 
- /*Estilo de las imágenes */
 img {
     width: 100%;
     border-radius: 8px;
 }
 
-/* Flexbox */
  section {
     display: flex;
     flex-direction: column;
@@ -104,8 +100,6 @@ footer {
     text-align: center;
     padding: 1rem;
 }
-
-
 
 p div {
     float: left;
@@ -132,7 +126,7 @@ p {
 }
 
 section {
-    width: 95%; /* Ajusta el ancho de cada sección */
+    width: 95%;
     padding: 50px;
 }
 
