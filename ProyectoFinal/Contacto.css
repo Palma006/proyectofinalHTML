@@ -114,6 +114,7 @@ img {
 footer {
     text-align: center;
     padding: 1rem;
+     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
 }
 
 nav ul li a:hover {
@@ -154,3 +155,10 @@ h2 {
     text-align: center;
     color: white;
 }
+
+.imagen-svg {
+    width: 100px;
+    height: 100px;
+    background-image: url('dribbble-svgrepo-com.svg');
+    background-size: cover;
+  }
